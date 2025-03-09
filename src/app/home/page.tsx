@@ -30,6 +30,9 @@ export default function HomePage() {
               <Link href="/rutinas/nueva" className="block w-full text-left px-4 py-2 text-sm text-gray-700 hover:bg-gray-50 rounded-md border border-gray-200 transition-colors">
                 Nueva rutina
               </Link>
+              <Link href="/rutinas/rutina-completa" className="block w-full text-left px-4 py-2 text-sm text-gray-700 hover:bg-gray-50 rounded-md border border-gray-200 transition-colors">
+                Nueva rutina completa
+              </Link>
               <Link href="/rutinas" className="block w-full text-left px-4 py-2 text-sm text-gray-700 hover:bg-gray-50 rounded-md border border-gray-200 transition-colors">
                 Ver rutinas
               </Link>
